@@ -1,4 +1,4 @@
-// src/departamento/departamento.entity.ts
+
 import { Entity, PrimaryGeneratedColumn, Column, OneToMany } from 'typeorm';
 import { Empleado } from '../empleado/empleado.entity';
 import { Proyecto } from '../proyecto/proyecto.entity';

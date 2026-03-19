@@ -1,4 +1,4 @@
-// src/departamento/departamento.controller.ts
+
 import { Controller, Get, Post, Body, Param } from '@nestjs/common';
 import { DepartamentoService } from './departamento.service';
 import { CreateDepartamentoDto } from './dto/create-departamento.dto';

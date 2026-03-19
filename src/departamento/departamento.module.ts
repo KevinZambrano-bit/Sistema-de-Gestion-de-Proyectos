@@ -1,4 +1,4 @@
-// src/departamento/departamento.module.ts
+
 import { Module } from '@nestjs/common';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { Departamento } from './departamento.entity';
